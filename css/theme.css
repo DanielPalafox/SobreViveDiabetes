@@ -2305,3 +2305,8 @@ footer.classic .social-profiles {
 background-image-diabetes{
   padding-right: -10% !important;
 }
+
+.icon-size{
+  max-height: 60px;
+  max-width: 60px;
+}
