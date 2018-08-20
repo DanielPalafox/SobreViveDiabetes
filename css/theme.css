@@ -264,6 +264,12 @@ h3 {
   line-height: 48px;
   font-weight: 300;
 }
+.extra-large-h1 {
+  font-size: 64px;
+  line-height: 70px;
+  font-weight: 400;
+}
+
 p {
   font-size: 14px;
   line-height: 24px;
