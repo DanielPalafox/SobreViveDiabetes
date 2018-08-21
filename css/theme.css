@@ -2316,3 +2316,7 @@ background-image-diabetes{
   max-height: 60px;
   max-width: 60px;
 }
+
+.form-diabetes{
+  width: 100%;
+}
